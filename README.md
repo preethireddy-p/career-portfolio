@@ -1,3 +1,3 @@
 # Career Portfolio
 
-### [📋 Resume]()
+### [📋 Resume](documents/SriPreethiResume.pdf)
